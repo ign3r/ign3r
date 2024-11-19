@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Ignacio ✨
+
+
+I am characterized by my ability to solve problems, prioritize and
+manage projects, in addition to working in interdisciplinary teams.
+I seek to develop professionally, with ethics and responsibility, in
+depending on the needs of industry and society. Here you can see my most technological side and focused on the trends that, from my perspective, are changing the world. 
 
 <!--
 **ign3r/ign3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
